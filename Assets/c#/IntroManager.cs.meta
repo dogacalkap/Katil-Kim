@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e53e7a8af4c48f847b52b095d57e9fa6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - introText: {instanceID: 0}
+  - backgroundFade: {instanceID: 0}
+  - doorImage: {instanceID: 0}
+  - closedDoorSprite: {fileID: 21300000, guid: 3d586918159e1c14aa095d3efeda84ba, type: 3}
+  - openDoorSprite: {fileID: 21300000, guid: 6f7b68f3ffdfbd340992164c1b8a1e24, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

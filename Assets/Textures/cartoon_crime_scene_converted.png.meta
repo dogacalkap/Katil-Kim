@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 87eb41fe952a6344896ec0d48b7d3744
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f725dbf62e8c3bb439f72c9cc2814fea
+      internalID: 1882575450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 896
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612f1571c4ffdb54bb7018a88f6b1c4a
+      internalID: 621390629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 896
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ea7ba7fafa6bb4d8d6b62fca7bb070
+      internalID: 455441356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 896
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cd54647572ab940b0e1a2c24ab2d08
+      internalID: -33062376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_4
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 896
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82d73c99800c5b46a79557c06911491
+      internalID: -787749131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_5
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 896
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e5221b313ca8b41a945a42eae31be3
+      internalID: -1058176819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8e8c47113a9584e824ac9099d9b9f4
+      internalID: -266740220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 768
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb1003eb1ea18d4eb368849c5b0608f
+      internalID: 40306440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 768
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af738e61bf26446ae4b5b6c0a0018b
+      internalID: 1484600609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_9
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 768
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7fcfef45a5b9f409a76b71db098d46
+      internalID: -908733052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_10
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 768
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eed6b9a10292748a610c66833c55c2
+      internalID: 1561384957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_11
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 768
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0979886eb46ba34a809e5f2345db1f5
+      internalID: 2107174201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c10065ceeedb52438e2e69b86e07bea
+      internalID: 431438920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 640
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb902e5b38a93345a6ae7dc759103ba
+      internalID: 243495496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_14
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 640
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cd7528c1650d647a647f0c37a38fcc
+      internalID: 1176708393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_15
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 640
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5965bcb4d3d3dc2419d2f823a0063d09
+      internalID: -405132989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_16
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 640
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8835bc4444c5c0a44ace6eb52a403a8e
+      internalID: 1658582170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_17
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 640
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529b7a92cf325e49a36bc65ec465e8f
+      internalID: -1223217284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd5e434979a98e48a2bbbeb88843d21
+      internalID: -66154219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 512
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3d38a83060cbc44abb489a41a92204
+      internalID: -232369326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_20
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 512
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281bc1bc301983e408e4753e1d1f08f1
+      internalID: -657867184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_21
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 512
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f898ed7ecd221f4f89a197cf922da6d
+      internalID: -1361013908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_22
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 512
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084d76d4d52046d408f7167e03c1d63c
+      internalID: -153405099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_23
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 512
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa96c6c4821418459048bbef095ab4d
+      internalID: 1439592107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3dcb2cfc6f4f7418d57397fdf6f937
+      internalID: -1282348912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 384
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2314d9447cbc8e4e9e6d85348e62564
+      internalID: -69081803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_26
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 384
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc18e903b0b4584481dc40e7f8eece1
+      internalID: -1008566873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_27
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 384
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1398caf9c4c67fe4a9db5912364aafc8
+      internalID: 1385175384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_28
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 384
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d51304f841f724dbee9f781ec52826
+      internalID: -1172766729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_29
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 384
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f73ad1604463c44b8510d927fe5569b
+      internalID: -208379970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05da5ffe3ecc66d498b98cb43c925fc0
+      internalID: -1827068411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_31
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 256
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d4e10c7764414380b451716786a72
+      internalID: -1769804348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_32
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 256
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ae4834a4c8264b941618481db975e
+      internalID: 1627924451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_33
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 256
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a742837f0d6769c45948c7cfca466d77
+      internalID: 1739919119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_34
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 256
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d4cd77eaaa09478425dbc3f8eae7e
+      internalID: 1979865366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_35
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 256
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7061174a7e9e05f439d15a4f85538456
+      internalID: 1587803339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9023bec851c1847a8605fc448f5e2e
+      internalID: -230640322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 128
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9384a5f1d7b1b40b4b031861273885
+      internalID: 482330545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_38
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 128
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524f570ad4cf8954390495d524cb8b06
+      internalID: 472018977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_39
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 128
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0f6cee2d8ac764991a0e1b755df46d
+      internalID: 959297944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_40
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 128
+        width: 299
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42418af6063b3504c99f1446835822f2
+      internalID: -836047264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_41
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 128
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21685128101b694fb2f846560181042
+      internalID: 2092941026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5bb5c2d55a79d418d0150603e8150c
+      internalID: 1076080663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_43
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e9ff71c96c79548a542577f30b5778
+      internalID: 628503992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_44
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1fe8e1574de5e4a896c4d308855047
+      internalID: 1790657022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_45
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 0
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887c1f7f4e89d84289cfe75509b7294
+      internalID: -1247987808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_46
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 0
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f03d526fa3581468a4509599cdaa01
+      internalID: 1686835302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon_crime_scene_converted_47
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 0
+        width: 298.66666
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5dbcd37ddf25e4581c9bc5db684696
+      internalID: 661463741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cartoon_crime_scene_converted_0: 1882575450
+      cartoon_crime_scene_converted_1: 621390629
+      cartoon_crime_scene_converted_10: 1561384957
+      cartoon_crime_scene_converted_11: 2107174201
+      cartoon_crime_scene_converted_12: 431438920
+      cartoon_crime_scene_converted_13: 243495496
+      cartoon_crime_scene_converted_14: 1176708393
+      cartoon_crime_scene_converted_15: -405132989
+      cartoon_crime_scene_converted_16: 1658582170
+      cartoon_crime_scene_converted_17: -1223217284
+      cartoon_crime_scene_converted_18: -66154219
+      cartoon_crime_scene_converted_19: -232369326
+      cartoon_crime_scene_converted_2: 455441356
+      cartoon_crime_scene_converted_20: -657867184
+      cartoon_crime_scene_converted_21: -1361013908
+      cartoon_crime_scene_converted_22: -153405099
+      cartoon_crime_scene_converted_23: 1439592107
+      cartoon_crime_scene_converted_24: -1282348912
+      cartoon_crime_scene_converted_25: -69081803
+      cartoon_crime_scene_converted_26: -1008566873
+      cartoon_crime_scene_converted_27: 1385175384
+      cartoon_crime_scene_converted_28: -1172766729
+      cartoon_crime_scene_converted_29: -208379970
+      cartoon_crime_scene_converted_3: -33062376
+      cartoon_crime_scene_converted_30: -1827068411
+      cartoon_crime_scene_converted_31: -1769804348
+      cartoon_crime_scene_converted_32: 1627924451
+      cartoon_crime_scene_converted_33: 1739919119
+      cartoon_crime_scene_converted_34: 1979865366
+      cartoon_crime_scene_converted_35: 1587803339
+      cartoon_crime_scene_converted_36: -230640322
+      cartoon_crime_scene_converted_37: 482330545
+      cartoon_crime_scene_converted_38: 472018977
+      cartoon_crime_scene_converted_39: 959297944
+      cartoon_crime_scene_converted_4: -787749131
+      cartoon_crime_scene_converted_40: -836047264
+      cartoon_crime_scene_converted_41: 2092941026
+      cartoon_crime_scene_converted_42: 1076080663
+      cartoon_crime_scene_converted_43: 628503992
+      cartoon_crime_scene_converted_44: 1790657022
+      cartoon_crime_scene_converted_45: -1247987808
+      cartoon_crime_scene_converted_46: 1686835302
+      cartoon_crime_scene_converted_47: 661463741
+      cartoon_crime_scene_converted_5: -1058176819
+      cartoon_crime_scene_converted_6: -266740220
+      cartoon_crime_scene_converted_7: 40306440
+      cartoon_crime_scene_converted_8: 1484600609
+      cartoon_crime_scene_converted_9: -908733052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
